@@ -928,7 +928,11 @@
         text-decoration: none;
         
     }
-    
+    .container-one{
+        background-color: #181818;
+        height: 100vh;
+        width: 100%;
+    }
     
  .habilidad{
     background-color: #181818;
